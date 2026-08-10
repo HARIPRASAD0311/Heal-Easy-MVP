@@ -1,0 +1,20 @@
+[
+  {
+    "hospitalId": "hosp-sunrise-general",
+    "name": "Sunrise General Hospital",
+    "location": "MG Road, Puducherry",
+    "wait": "12 min avg. wait"
+  },
+  {
+    "hospitalId": "hosp-lotus-multispecialty",
+    "name": "Lotus Multispecialty Clinic",
+    "location": "Anna Nagar, Puducherry",
+    "wait": "20 min avg. wait"
+  },
+  {
+    "hospitalId": "hosp-government-opd",
+    "name": "Government OPD Center",
+    "location": "Lawspet, Puducherry",
+    "wait": "35 min avg. wait"
+  }
+]
